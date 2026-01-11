@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "故にユーエンミー",
+  "base_artist": "4o",
+  "createdAt": "2026-01-11T05:22:08.396903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "故にユーエンミー",
+      "artist": "4o",
+      "has_synced": false,
+      "path": "select/pl_01_故にユーエンミー_4o.txt"
+    }
+  ]
+}
